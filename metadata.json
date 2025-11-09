@@ -1,0 +1,5 @@
+{
+  "name": "Video to Short Converter",
+  "description": "An application that turns a video into a short vertical clip by trimming and cropping it, all processed locally in your browser.",
+  "requestFramePermissions": []
+}
